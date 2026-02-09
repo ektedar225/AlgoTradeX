@@ -203,4 +203,3 @@ Created by: Ektedar
 
 - v1.0 (Feb 2026): Initial release with EMA-ADX strategy
 - Future: Multi-indicator and ML-based versions
-# AlgoTradeX
